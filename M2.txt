@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VodafoneNZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7275T;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/218.0.0.37913;FBBV/646169652[FBAN/FB4A;FBAV/328.0.0.22.119;FBBV/285615636;FBDM/{density=2.0,width=720,height=1456);FBLC/en US;FBRV/285615636;FBCR/;FBMF/oppo;FBBD/oppo;FBPN/com.facebook katana;FBDV/a36;FBSV/6.0.1;FBBK/1;FBOP/16;FBCA/armeabi-v7a:armeabi;]
